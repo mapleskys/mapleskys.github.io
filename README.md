@@ -1,2 +1,3 @@
 # mapleskys.github.io
-## MapleSky的网站根目录
+## index.html的模板源自：
+### http://www.yehes.com/jianzhan/sitecode/43700.html
