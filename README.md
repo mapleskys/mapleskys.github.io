@@ -146,7 +146,7 @@ photo-wall/
 ## 联系方式
 
 - 项目作者：[W1ndys]
-- Email：[w1ndys@outlook.com]
+- Email：[w1ndys@qq.com]
 - GitHub：[https://github.com/W1ndys]
 
 ## 更新日志
