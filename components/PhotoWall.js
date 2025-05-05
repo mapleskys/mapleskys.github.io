@@ -42,12 +42,60 @@ export const PhotoWall = {
         return {
             photos: [
                 {
-                    url: 'https://picsum.photos/800/600?random=1',
-                    description: '这是第一张照片的描述'
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqKhAx.jpg',
+                    description: '1'
                 },
                 {
-                    url: 'https://picsum.photos/800/600?random=2',
-                    description: '这是第二张照片的描述'
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqKWH1.jpg',
+                    description: '2'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqK54K.jpg',
+                    description: '3'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqK4N6.jpg',
+                    description: '4'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqKRBR.jpg',
+                    description: '5'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqKT3D.jpg',
+                    description: '6'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqKo9O.jpg',
+                    description: '7'
+                },
+                {
+                    url: 'https://s21.ax1x.com/2025/05/05/pEqK7ge.jpg',
+                    description: '8'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b0758cb8da5c8dcaae5.jpg',
+                    description: '9'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b0758cb8da5c8dcaae8.jpg',
+                    description: '10'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b0758cb8da5c8dcaae6.jpg',
+                    description: '11'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b0758cb8da5c8dcaae7.jpg',
+                    description: '12'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b0658cb8da5c8dcaae4.jpg',
+                    description: '13'
+                },
+                {
+                    url: 'https://pic1.imgdb.cn/item/68184b1058cb8da5c8dcaae9.jpg',
+                    description: '14'
                 },
             ],
             selectedPhoto: null,
