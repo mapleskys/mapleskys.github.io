@@ -1,54 +1,53 @@
 // 照片数据
 const photos = [
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第一张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第二张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第三张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第四张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第五张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第六张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第七张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第八张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第九张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第十张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第十一张照片的描述'
-    },
-    {
-        url: 'https://picsum.photos/200/300',
-        description: '这是第十二张照片的描述'
-    },
-
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第一张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第二张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第三张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第四张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第五张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第六张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第七张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第八张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第九张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第十张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第十一张照片的描述'
+        },
+        {
+            url: 'https://picsum.photos/200/300',
+            description: '这是第十二张照片的描述'
+        },
 ];
 
 // 初始化照片墙
